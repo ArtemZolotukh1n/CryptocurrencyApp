@@ -28,7 +28,7 @@ Data: This layer is responsible for fetching data from external sources, such as
 Contributing
 If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. We welcome any contributions that improve the app or add new features.
 
-##Acknowledgments
+## Acknowledgments
 This project was inspired by the Clean Architecture principles and the videos of Philipp Lackner's YouTube channel.
 We fixed an error in one of the videos by adding a missing provideGetCoinsUseCase method, so that the app can run properly.
 The app was built using Jetpack Compose, a modern toolkit for building Android user interfaces.
